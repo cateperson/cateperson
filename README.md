@@ -1,4 +1,3 @@
-am catperson  
-silly developer
 
-they / she
+am catperson
+is silly developer
