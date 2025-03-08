@@ -1,3 +1,3 @@
 
 am catperson
-is silly developer
+develops the apps
